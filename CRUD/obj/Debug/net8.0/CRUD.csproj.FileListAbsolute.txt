@@ -264,3 +264,4 @@ C:\Users\digbo\OneDrive\Escritorio\CRUD\CRUD\CRUD\bin\Debug\net8.0\runtimes\osx\
 C:\Users\digbo\OneDrive\Escritorio\CRUD\CRUD\CRUD\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
 C:\Users\digbo\OneDrive\Escritorio\CRUD\CRUD\CRUD\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
 C:\Users\digbo\OneDrive\Escritorio\CRUD\CRUD\CRUD\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\digbo\OneDrive\Escritorio\CRUD\CRUD\CRUD\obj\Debug\net8.0\CRUD.sourcelink.json
