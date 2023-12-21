@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IvgtRmgfC9DoclttnDNvoGmlpw/Yk1aRDcxqp3rLagezqAmJnUEBs/vwvRcBFhZDyFPtMdq5fKknxOWpW862RA==",
+  "dgSpecHash": "hV59flrucaJpV+QsdOr86uSLJuDDrOc9CUTsUC/iJZ++qPng7j8cH8YwaZTD3eWEvDn1B+nF0BAUK5evNWIS+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\digbo\\OneDrive\\Escritorio\\CRUD\\CRUD\\CRUD\\CRUD.csproj",
+  "projectFilePath": "C:\\Users\\digbo\\OneDrive\\Escritorio\\CLON-CRUD\\ledezma07\\MiCRUD\\CRUD\\CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\digbo\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\digbo\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
