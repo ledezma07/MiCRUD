@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\digbo\\OneDrive\\Escritorio\\CRUD\\CRUD\\CRUD\\CRUD.csproj": {}
+    "C:\\Users\\digbo\\OneDrive\\Escritorio\\CLON-CRUD\\ledezma07\\MiCRUD\\CRUD\\CRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\digbo\\OneDrive\\Escritorio\\CRUD\\CRUD\\CRUD\\CRUD.csproj": {
+    "C:\\Users\\digbo\\OneDrive\\Escritorio\\CLON-CRUD\\ledezma07\\MiCRUD\\CRUD\\CRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digbo\\OneDrive\\Escritorio\\CRUD\\CRUD\\CRUD\\CRUD.csproj",
+        "projectUniqueName": "C:\\Users\\digbo\\OneDrive\\Escritorio\\CLON-CRUD\\ledezma07\\MiCRUD\\CRUD\\CRUD.csproj",
         "projectName": "CRUD",
-        "projectPath": "C:\\Users\\digbo\\OneDrive\\Escritorio\\CRUD\\CRUD\\CRUD\\CRUD.csproj",
+        "projectPath": "C:\\Users\\digbo\\OneDrive\\Escritorio\\CLON-CRUD\\ledezma07\\MiCRUD\\CRUD\\CRUD.csproj",
         "packagesPath": "C:\\Users\\digbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digbo\\OneDrive\\Escritorio\\CRUD\\CRUD\\CRUD\\obj\\",
+        "outputPath": "C:\\Users\\digbo\\OneDrive\\Escritorio\\CLON-CRUD\\ledezma07\\MiCRUD\\CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
